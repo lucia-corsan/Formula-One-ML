@@ -1,5 +1,6 @@
 # Formula One Analytics
 Jupyter notebooks with the automatized process to obtain the necessary data from F1 API, resulting in Looker interactive dashboards.
+- Course: Web Analytics
 - Final grade: 9.2/10.
 
 ## Tools and covered topics
