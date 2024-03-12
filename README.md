@@ -40,3 +40,7 @@ The project will be evaluated based on the following criteria:
 2. Scalability: Your implementation should be scalable, tested with datasets ten times larger on a cluster with 80 execution workers.
 3. Documentation: Adequate code documentation is required.
 4. Complexity of the Machine Learning techniques: Advanced techniques must be performed.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Feel free to customize it further to match your repository's specific details and needs!
