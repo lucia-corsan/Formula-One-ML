@@ -5,7 +5,7 @@ Jupyter notebooks with the automatized process to obtain the necessary data from
 
 ## Contents
 - `F1_API_Analytics.ipynb`: Jupyter Notebook with data extraction, cleaning, and visualizations.
-- `Dashboard Compilation.pdf`: PDF with the final dashboards (which can be found in this [link](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff).
+- `Dashboard Compilation.pdf`: PDF with the final dashboards, which can be found in this [link](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff).
 
 ## Tools and covered topics
 - Jupyter Notebook
