@@ -3,6 +3,10 @@ Jupyter notebooks with the automatized process to obtain the necessary data from
 - Course: Web Analytics
 - Final grade: 9.2/10
 
+## Contents
+- `F1_API_Analytics.ipynb`: Jupyter Notebook with data extraction, cleaning, and visualizations.
+- `Dashboard Compilation.pdf`: PDF with the final dashboards (which can be found in this [link](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff).
+
 ## Tools and covered topics
 - Jupyter Notebook
 - Google Looker Studio
@@ -15,15 +19,16 @@ The primary goal is to work with Formula One API Ergast (see Documentation [here
 
 ## Key Features
 
+- **Prediction of the champion in the next season**
 - **Driver Performance Analysis**: Explore how drivers perform across different races and seasons.
 - **Race Strategy Optimization**: Analyze race data to optimize pit stop strategies and track performance.
 - **Team Comparison**: Compare the performance of different F1 teams over time.
-- **Data Visualization**: Visualize complex F1 data in intuitive and informative ways.
+- **Data Visualization**: Visualize complex F1 data in an intuitive Looker dashboard.
 
 ## Expected Results
 The final result should represent accurately the statistics and outputs of the ML models for the Formula One drivers, cars and teams in a Looker Dashboard.
 
-Some examples of the ML models to compare are:
+The ML models to compare its feature importances are:
 - Random Forest
 - Linear Regression
 - MLP
@@ -35,10 +40,6 @@ Some examples of analytics metrics performed are:
 - Lap times in each circuit along history
 - Boxes and result per circuit and year
 - Evolution of the champions' points per year
-
-## Repository contents
-- .ipynb notebook with the data extraction, cleaning and visualizations.
-- PDF with the final dashboards (which can be found in the following [link](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff))
 
 ## Evaluation Criteria
 The project will be evaluated based on the following criteria:
