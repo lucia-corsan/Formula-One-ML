@@ -13,6 +13,13 @@ Jupyter notebooks with the automatized process to obtain the necessary data from
 ## Objective
 The primary goal is to work with Formula One API Ergast (see Documentation [here](https://ergast.com/mrd/)), as well as to perform Data Analytics and a comparison of Machine Learning techniques from the dataset extracted.
 
+## Key Features
+
+- **Driver Performance Analysis**: Explore how drivers perform across different races and seasons.
+- **Race Strategy Optimization**: Analyze race data to optimize pit stop strategies and track performance.
+- **Team Comparison**: Compare the performance of different F1 teams over time.
+- **Data Visualization**: Visualize complex F1 data in intuitive and informative ways.
+
 ## Expected Results
 The final result should represent accurately the statistics and outputs of the ML models for the Formula One drivers, cars and teams in a Looker Dashboard.
 
@@ -29,8 +36,7 @@ Some examples of analytics metrics performed are:
 - Boxes and result per circuit and year
 - Evolution of the champions' points per year
 
-
-## The repository contains
+## Repository contents
 - .ipynb notebook with the data extraction, cleaning and visualizations.
 - PDF with the final dashboards (which can be found in the following [link](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff))
 
