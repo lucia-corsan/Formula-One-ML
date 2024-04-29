@@ -8,7 +8,7 @@ Jupyter notebooks with the automatized process to obtain the necessary data from
 </p>
 
 ## Contents
-- `F1_API_Analytics.ipynb`: Jupyter Notebook with data extraction, cleaning, and visualizations.
+- `code.ipynb`: Jupyter Notebook with data extraction, cleaning, and visualizations.
 - `Dashboard Compilation.pdf`: PDF with the final dashboards.
 > [!NOTE]  
 > The `Dashboard Compilation.pdf` contains a non-interactive version of the dashboards, check for the interactive version [here](https://lookerstudio.google.com/reporting/003df30b-544c-43a5-99d8-fa5aab70ffff).
